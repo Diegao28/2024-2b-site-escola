@@ -7,8 +7,8 @@
 }
 
 :root{
-        --bege: #ffb4a2;
-        --begeclaro: #e07a5f;
+        --bege: #ee937c;
+        --begeclaro:#c5664b;
         --salmao: #e5989b;
         --escuro: #b5838d;
         --branco: #f5f5f5;
@@ -30,7 +30,7 @@
 .cabecalho-imagem{
     width: 5%;
     border-radius: 100%;
-    margin: 1em
+    margin: 2.3em
 }
 
 .cabecalho-lista-link{
@@ -47,18 +47,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px 0;
+    padding: 40px 0;
     font-size: 30px;
     font-family: var(--fonte-texto);
 }
 
 .escola-texto-titulo{
-    padding: 40px 0;
+    padding: 35px 0;
     font-family: var(--fonte-titulo);
 
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 35%;
 
 }
